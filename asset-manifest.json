@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d50d6c1a.js",
+    "static/js/642.0d2f1129.js": "/static/js/642.0d2f1129.js",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
+    ".cache/axis-foils.json": "/.cache/axis-foils.json",
+    "favicon.ico": "/favicon.ico",
+    ".cache/armstrong-foils.json": "/.cache/armstrong-foils.json",
+    "index.html": "/index.html",
+    ".cache/lift-foils.json": "/.cache/lift-foils.json",
+    ".cache/uni-foil.json": "/.cache/uni-foil.json",
+    ".cache/code-foils.json": "/.cache/code-foils.json",
+    ".cache/kt-foils.json": "/.cache/kt-foils.json",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "CNAME": "/CNAME",
+    "main.d50d6c1a.js.map": "/static/js/main.d50d6c1a.js.map",
+    "642.0d2f1129.js.map": "/static/js/642.0d2f1129.js.map"
+  },
+  "entrypoints": [
+    "static/js/642.0d2f1129.js",
+    "static/js/main.d50d6c1a.js"
+  ]
+}
