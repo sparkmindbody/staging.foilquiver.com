@@ -1,2 +1,0 @@
-(self.webpackChunkweb=self.webpackChunkweb||[]).push([[988],{6988:(e,a,b)=>{b.r(a),b.d(a,{spacing:()=>k});var k={SMALL:8,MEDIUM:12,LARGE:16,XLARGE:24}}}]);
-//# sourceMappingURL=988.11c7302e.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/988.11c7302e.chunk.js","mappings":"0GAAO,IAAMA,EAAU,CACrBC,MAAO,EACPC,OAAQ,GACRC,MAAO,GACPC,OAAQ,G","sources":["src/constants/spacing.ts"],"sourcesContent":["export const spacing = {\n  SMALL: 8,\n  MEDIUM: 12,\n  LARGE: 16,\n  XLARGE: 24,\n}; "],"names":["spacing","SMALL","MEDIUM","LARGE","XLARGE"],"sourceRoot":""}
