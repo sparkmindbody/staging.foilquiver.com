@@ -1,8 +1,8 @@
 {
   "files": {
     "main.js": "/static/js/main.07d5696a.js",
-    "runtime.js": "/static/js/runtime.d9cef0e1.js",
-    "static/js/663.b1cd2edb.chunk.js": "/static/js/663.b1cd2edb.chunk.js",
+    "runtime.js": "/static/js/runtime.643dc413.js",
+    "static/js/663.e0121d77.chunk.js": "/static/js/663.e0121d77.chunk.js",
     "static/js/171.ecb3c779.chunk.js": "/static/js/171.ecb3c779.chunk.js",
     "static/js/552.9e77b338.chunk.js": "/static/js/552.9e77b338.chunk.js",
     "static/js/409.6b693c7e.chunk.js": "/static/js/409.6b693c7e.chunk.js",
@@ -17,6 +17,7 @@
     "components.js": "/static/js/components.93c1ac2b.js",
     "screens.js": "/static/js/screens.0a64f9a7.chunk.js",
     "static/media/Ionicons.ttf": "/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
+    "data/foils.json": "/data/foils.json",
     ".cache/axis-foils.json": "/.cache/axis-foils.json",
     "favicon.ico": "/favicon.ico",
     ".cache/armstrong.json": "/.cache/armstrong.json",
@@ -31,8 +32,8 @@
     "serve.json": "/serve.json",
     "CNAME": "/CNAME",
     "main.07d5696a.js.map": "/static/js/main.07d5696a.js.map",
-    "runtime.d9cef0e1.js.map": "/static/js/runtime.d9cef0e1.js.map",
-    "663.b1cd2edb.chunk.js.map": "/static/js/663.b1cd2edb.chunk.js.map",
+    "runtime.643dc413.js.map": "/static/js/runtime.643dc413.js.map",
+    "663.e0121d77.chunk.js.map": "/static/js/663.e0121d77.chunk.js.map",
     "171.ecb3c779.chunk.js.map": "/static/js/171.ecb3c779.chunk.js.map",
     "552.9e77b338.chunk.js.map": "/static/js/552.9e77b338.chunk.js.map",
     "409.6b693c7e.chunk.js.map": "/static/js/409.6b693c7e.chunk.js.map",
@@ -47,7 +48,7 @@
     "screens.0a64f9a7.chunk.js.map": "/static/js/screens.0a64f9a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime.d9cef0e1.js",
+    "static/js/runtime.643dc413.js",
     "static/js/framework.538e9c28.js",
     "static/js/lib-main-index.esm.js.1b90ccff.js",
     "static/js/lib-main-index.js.fc92cd64.js",
