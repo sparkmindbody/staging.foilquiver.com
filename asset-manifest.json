@@ -1,8 +1,8 @@
 {
   "files": {
     "main.js": "/static/js/main.4596b620.js",
-    "runtime.js": "/static/js/runtime.6d8f008e.js",
-    "static/js/91.c4186af4.chunk.js": "/static/js/91.c4186af4.chunk.js",
+    "runtime.js": "/static/js/runtime.dfb00e30.js",
+    "static/js/91.3b1378cb.chunk.js": "/static/js/91.3b1378cb.chunk.js",
     "static/js/171.97f8fe16.chunk.js": "/static/js/171.97f8fe16.chunk.js",
     "static/js/552.300c7262.chunk.js": "/static/js/552.300c7262.chunk.js",
     "static/js/409.c7021f3f.chunk.js": "/static/js/409.c7021f3f.chunk.js",
@@ -13,7 +13,7 @@
     "react-native-web.js": "/static/js/react-native-web.c46cfe5d.chunk.js",
     "components.js": "/static/js/components.17a07b5f.chunk.js",
     "screens.js": "/static/js/screens.90047a45.chunk.js",
-    "static/media/Ionicons.ttf": "/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
+    "fonts/Ionicons.ttf": "/fonts/Ionicons.9b6b1954a5eb6efeaf11.ttf",
     "data/foils.json": "/data/foils.json",
     ".cache/axis-foils.json": "/.cache/axis-foils.json",
     "favicon.ico": "/favicon.ico",
@@ -30,8 +30,8 @@
     "serve.json": "/serve.json",
     "CNAME": "/CNAME",
     "main.4596b620.js.map": "/static/js/main.4596b620.js.map",
-    "runtime.6d8f008e.js.map": "/static/js/runtime.6d8f008e.js.map",
-    "91.c4186af4.chunk.js.map": "/static/js/91.c4186af4.chunk.js.map",
+    "runtime.dfb00e30.js.map": "/static/js/runtime.dfb00e30.js.map",
+    "91.3b1378cb.chunk.js.map": "/static/js/91.3b1378cb.chunk.js.map",
     "171.97f8fe16.chunk.js.map": "/static/js/171.97f8fe16.chunk.js.map",
     "552.300c7262.chunk.js.map": "/static/js/552.300c7262.chunk.js.map",
     "409.c7021f3f.chunk.js.map": "/static/js/409.c7021f3f.chunk.js.map",
@@ -44,7 +44,7 @@
     "screens.90047a45.chunk.js.map": "/static/js/screens.90047a45.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime.6d8f008e.js",
+    "static/js/runtime.dfb00e30.js",
     "static/js/framework.fdbcf95c.js",
     "static/js/main.4596b620.js"
   ]
