@@ -1,2 +1,0 @@
-(self.webpackChunkweb=self.webpackChunkweb||[]).push([[236,855,988],{257:(e,f,R)=>{R.d(f,{T:()=>E});var E={BORDER:"#eee",LIGHT_GRAY:"#f5f5f5",TEXT_PRIMARY:"#1c1c1e",SELECTED_ROW:"#e6f3ff",HOVER_ROW:"#f8f9fa",LINK:"#0066cc"}},6988:(e,f,R)=>{R.d(f,{Y:()=>E});var E={SMALL:8,MEDIUM:12,LARGE:16,XLARGE:24}}}]);
-//# sourceMappingURL=855.4fe7a87b.chunk.js.map
