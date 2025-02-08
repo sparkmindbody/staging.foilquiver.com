@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.34e17c56.js",
-    "runtime.js": "/static/js/runtime.374022c7.js",
+    "main.js": "/static/js/main.ce9d2788.js",
+    "runtime.js": "/static/js/runtime.69e66094.js",
     "static/js/486.6707506a.chunk.js": "/static/js/486.6707506a.chunk.js",
     "static/js/171.ecb3c779.chunk.js": "/static/js/171.ecb3c779.chunk.js",
     "static/js/552.9e77b338.chunk.js": "/static/js/552.9e77b338.chunk.js",
@@ -10,7 +10,7 @@
     "lib--Ionicons.json.js": "/static/js/lib--Ionicons.json.f056c3af.chunk.js",
     "lib-main-index.esm.js.js": "/static/js/lib-main-index.esm.js.1b90ccff.js",
     "lib-main-index.js.js": "/static/js/lib-main-index.js.fc92cd64.js",
-    "components.js": "/static/js/components.f2e26d0b.js",
+    "components.js": "/static/js/components.51bd1bb3.js",
     "screens.js": "/static/js/screens.ea7b0f59.chunk.js",
     "static/media/Ionicons.ttf": "/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
     "data/foils.json": "/data/foils.json",
@@ -28,8 +28,8 @@
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
     "CNAME": "/CNAME",
-    "main.34e17c56.js.map": "/static/js/main.34e17c56.js.map",
-    "runtime.374022c7.js.map": "/static/js/runtime.374022c7.js.map",
+    "main.ce9d2788.js.map": "/static/js/main.ce9d2788.js.map",
+    "runtime.69e66094.js.map": "/static/js/runtime.69e66094.js.map",
     "486.6707506a.chunk.js.map": "/static/js/486.6707506a.chunk.js.map",
     "171.ecb3c779.chunk.js.map": "/static/js/171.ecb3c779.chunk.js.map",
     "552.9e77b338.chunk.js.map": "/static/js/552.9e77b338.chunk.js.map",
@@ -37,15 +37,15 @@
     "framework.abdc5914.js.map": "/static/js/framework.abdc5914.js.map",
     "lib-main-index.esm.js.1b90ccff.js.map": "/static/js/lib-main-index.esm.js.1b90ccff.js.map",
     "lib-main-index.js.fc92cd64.js.map": "/static/js/lib-main-index.js.fc92cd64.js.map",
-    "components.f2e26d0b.js.map": "/static/js/components.f2e26d0b.js.map",
+    "components.51bd1bb3.js.map": "/static/js/components.51bd1bb3.js.map",
     "screens.ea7b0f59.chunk.js.map": "/static/js/screens.ea7b0f59.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime.374022c7.js",
+    "static/js/runtime.69e66094.js",
     "static/js/framework.abdc5914.js",
     "static/js/lib-main-index.esm.js.1b90ccff.js",
     "static/js/lib-main-index.js.fc92cd64.js",
-    "static/js/components.f2e26d0b.js",
-    "static/js/main.34e17c56.js"
+    "static/js/components.51bd1bb3.js",
+    "static/js/main.ce9d2788.js"
   ]
 }
