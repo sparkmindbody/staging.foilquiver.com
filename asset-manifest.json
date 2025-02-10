@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.1b666325.js",
-    "runtime.js": "/static/js/runtime.e2a9d0cc.js",
+    "main.js": "/static/js/main.ddb18478.js",
+    "runtime.js": "/static/js/runtime.01222500.js",
     "static/js/167.6f20e8ba.chunk.js": "/static/js/167.6f20e8ba.chunk.js",
     "static/js/951.1b078db6.chunk.js": "/static/js/951.1b078db6.chunk.js",
     "static/js/50.1d3f1294.chunk.js": "/static/js/50.1d3f1294.chunk.js",
@@ -41,8 +41,8 @@
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
     "CNAME": "/CNAME",
-    "main.1b666325.js.map": "/static/js/main.1b666325.js.map",
-    "runtime.e2a9d0cc.js.map": "/static/js/runtime.e2a9d0cc.js.map",
+    "main.ddb18478.js.map": "/static/js/main.ddb18478.js.map",
+    "runtime.01222500.js.map": "/static/js/runtime.01222500.js.map",
     "167.6f20e8ba.chunk.js.map": "/static/js/167.6f20e8ba.chunk.js.map",
     "951.1b078db6.chunk.js.map": "/static/js/951.1b078db6.chunk.js.map",
     "50.1d3f1294.chunk.js.map": "/static/js/50.1d3f1294.chunk.js.map",
@@ -50,8 +50,8 @@
     "471.c8414f62.js.map": "/static/js/471.c8414f62.js.map"
   },
   "entrypoints": [
-    "static/js/runtime.e2a9d0cc.js",
+    "static/js/runtime.01222500.js",
     "static/js/471.c8414f62.js",
-    "static/js/main.1b666325.js"
+    "static/js/main.ddb18478.js"
   ]
 }
