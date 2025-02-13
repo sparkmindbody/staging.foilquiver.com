@@ -2105,6 +2105,300 @@
     "sourceUrl": "https://axisfoils.com/products/460-flat-pump-carbon-rear-wing"
   },
   {
+    "brand": "KT Foils",
+    "model": "Atlas 570",
+    "series": "Atlas",
+    "type": "front",
+    "specs": {
+      "area": 570,
+      "areaImperial": 88,
+      "wingspan": 775,
+      "aspectRatio": 10.5
+    },
+    "price": 522,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Atlas 680",
+    "series": "Atlas",
+    "type": "front",
+    "specs": {
+      "area": 680,
+      "areaImperial": 105,
+      "wingspan": 850,
+      "aspectRatio": 10.6
+    },
+    "price": 542,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Atlas 790",
+    "series": "Atlas",
+    "type": "front",
+    "specs": {
+      "area": 790,
+      "areaImperial": 122,
+      "wingspan": 920,
+      "aspectRatio": 10.7
+    },
+    "price": 560,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Atlas 960",
+    "series": "Atlas",
+    "type": "front",
+    "specs": {
+      "area": 960,
+      "areaImperial": 149,
+      "wingspan": 1020,
+      "aspectRatio": 10.8
+    },
+    "price": 584,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Atlas 1130",
+    "series": "Atlas",
+    "type": "front",
+    "specs": {
+      "area": 1130,
+      "areaImperial": 175,
+      "wingspan": 1110,
+      "aspectRatio": 10.9
+    },
+    "price": 620,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Atlas 1340",
+    "series": "Atlas",
+    "type": "front",
+    "specs": {
+      "area": 1340,
+      "areaImperial": 208,
+      "wingspan": 1220,
+      "aspectRatio": 11.1
+    },
+    "price": 652,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Atlas 145",
+    "series": "Atlas",
+    "type": "tail",
+    "specs": {
+      "area": 145,
+      "areaImperial": 22,
+      "wingspan": 375,
+      "aspectRatio": 9.7
+    },
+    "price": 189,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Atlas 170",
+    "series": "Atlas",
+    "type": "tail",
+    "specs": {
+      "area": 170,
+      "areaImperial": 26,
+      "wingspan": 415,
+      "aspectRatio": 10.1
+    },
+    "price": 199,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Atlas 205",
+    "series": "Atlas",
+    "type": "tail",
+    "specs": {
+      "area": 205,
+      "areaImperial": 32,
+      "wingspan": 455,
+      "aspectRatio": 10.1
+    },
+    "price": 204,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Nomad 700",
+    "series": "Nomad",
+    "type": "front",
+    "specs": {
+      "area": 700,
+      "areaImperial": 108,
+      "wingspan": 780,
+      "aspectRatio": 8.7
+    },
+    "price": 532,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Nomad 830",
+    "series": "Nomad",
+    "type": "front",
+    "specs": {
+      "area": 830,
+      "areaImperial": 129,
+      "wingspan": 860,
+      "aspectRatio": 8.9
+    },
+    "price": 550,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Nomad 980",
+    "series": "Nomad",
+    "type": "front",
+    "specs": {
+      "area": 980,
+      "areaImperial": 152,
+      "wingspan": 950,
+      "aspectRatio": 9.2
+    },
+    "price": 578,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Nomad 1160",
+    "series": "Nomad",
+    "type": "front",
+    "specs": {
+      "area": 1160,
+      "areaImperial": 180,
+      "wingspan": 1050,
+      "aspectRatio": 9.5
+    },
+    "price": 610,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Nomad 155",
+    "series": "Nomad",
+    "type": "tail",
+    "specs": {
+      "area": 155,
+      "areaImperial": 24,
+      "wingspan": 350,
+      "aspectRatio": 7.9
+    },
+    "price": 190,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Nomad 190",
+    "series": "Nomad",
+    "type": "tail",
+    "specs": {
+      "area": 190,
+      "areaImperial": 29,
+      "wingspan": 385,
+      "aspectRatio": 7.8
+    },
+    "price": 199,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Nomad 250",
+    "series": "Nomad",
+    "type": "tail",
+    "specs": {
+      "area": 250,
+      "areaImperial": 39,
+      "wingspan": 450,
+      "aspectRatio": 8.1
+    },
+    "price": 204,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Instinct 720",
+    "series": "Instinct",
+    "type": "front",
+    "specs": {
+      "area": 720,
+      "areaImperial": 112,
+      "wingspan": 765,
+      "aspectRatio": 8.12
+    },
+    "price": 440,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Instinct 920",
+    "series": "Instinct",
+    "type": "front",
+    "specs": {
+      "area": 920,
+      "areaImperial": 143,
+      "wingspan": 880,
+      "aspectRatio": 8.41
+    },
+    "price": 448,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Instinct 1120",
+    "series": "Instinct",
+    "type": "front",
+    "specs": {
+      "area": 1120,
+      "areaImperial": 174,
+      "wingspan": 971,
+      "aspectRatio": 8.4
+    },
+    "price": 472,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Instinct 1300",
+    "series": "Instinct",
+    "type": "front",
+    "specs": {
+      "area": 1300,
+      "areaImperial": 201,
+      "wingspan": 965,
+      "aspectRatio": 7.16
+    },
+    "price": 495,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
+  },
+  {
+    "brand": "KT Foils",
+    "model": "Instinct 1450",
+    "series": "Instinct",
+    "type": "front",
+    "specs": {
+      "area": 1450,
+      "areaImperial": 225,
+      "wingspan": 960,
+      "aspectRatio": 6.33
+    },
+    "price": 510,
+    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
+  },
+  {
     "brand": "Lift Foils",
     "model": "Florence 130 X",
     "series": "Florence",
@@ -3055,299 +3349,5 @@
     },
     "price": 249.99,
     "sourceUrl": "https://armstrongfoils.com/collections/stabilizers/products/flying-v-200"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 570",
-    "series": "Atlas",
-    "type": "front",
-    "specs": {
-      "area": 570,
-      "areaImperial": 88,
-      "wingspan": 775,
-      "aspectRatio": 10.5
-    },
-    "price": 522,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 680",
-    "series": "Atlas",
-    "type": "front",
-    "specs": {
-      "area": 680,
-      "areaImperial": 105,
-      "wingspan": 850,
-      "aspectRatio": 10.6
-    },
-    "price": 542,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 790",
-    "series": "Atlas",
-    "type": "front",
-    "specs": {
-      "area": 790,
-      "areaImperial": 122,
-      "wingspan": 920,
-      "aspectRatio": 10.7
-    },
-    "price": 560,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 960",
-    "series": "Atlas",
-    "type": "front",
-    "specs": {
-      "area": 960,
-      "areaImperial": 149,
-      "wingspan": 1020,
-      "aspectRatio": 10.8
-    },
-    "price": 584,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 1130",
-    "series": "Atlas",
-    "type": "front",
-    "specs": {
-      "area": 1130,
-      "areaImperial": 175,
-      "wingspan": 1110,
-      "aspectRatio": 10.9
-    },
-    "price": 620,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 1340",
-    "series": "Atlas",
-    "type": "front",
-    "specs": {
-      "area": 1340,
-      "areaImperial": 208,
-      "wingspan": 1220,
-      "aspectRatio": 11.1
-    },
-    "price": 652,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 145",
-    "series": "Atlas",
-    "type": "tail",
-    "specs": {
-      "area": 145,
-      "areaImperial": 22,
-      "wingspan": 375,
-      "aspectRatio": 9.7
-    },
-    "price": 189,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 170",
-    "series": "Atlas",
-    "type": "tail",
-    "specs": {
-      "area": 170,
-      "areaImperial": 26,
-      "wingspan": 415,
-      "aspectRatio": 10.1
-    },
-    "price": 199,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Atlas 205",
-    "series": "Atlas",
-    "type": "tail",
-    "specs": {
-      "area": 205,
-      "areaImperial": 32,
-      "wingspan": 455,
-      "aspectRatio": 10.1
-    },
-    "price": 204,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/atlas-1//"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Nomad 700",
-    "series": "Nomad",
-    "type": "front",
-    "specs": {
-      "area": 700,
-      "areaImperial": 108,
-      "wingspan": 780,
-      "aspectRatio": 8.7
-    },
-    "price": 532,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Nomad 830",
-    "series": "Nomad",
-    "type": "front",
-    "specs": {
-      "area": 830,
-      "areaImperial": 129,
-      "wingspan": 860,
-      "aspectRatio": 8.9
-    },
-    "price": 550,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Nomad 980",
-    "series": "Nomad",
-    "type": "front",
-    "specs": {
-      "area": 980,
-      "areaImperial": 152,
-      "wingspan": 950,
-      "aspectRatio": 9.2
-    },
-    "price": 578,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Nomad 1160",
-    "series": "Nomad",
-    "type": "front",
-    "specs": {
-      "area": 1160,
-      "areaImperial": 180,
-      "wingspan": 1050,
-      "aspectRatio": 9.5
-    },
-    "price": 610,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Nomad 155",
-    "series": "Nomad",
-    "type": "tail",
-    "specs": {
-      "area": 155,
-      "areaImperial": 24,
-      "wingspan": 350,
-      "aspectRatio": 7.9
-    },
-    "price": 190,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Nomad 190",
-    "series": "Nomad",
-    "type": "tail",
-    "specs": {
-      "area": 190,
-      "areaImperial": 29,
-      "wingspan": 385,
-      "aspectRatio": 7.8
-    },
-    "price": 199,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Nomad 250",
-    "series": "Nomad",
-    "type": "tail",
-    "specs": {
-      "area": 250,
-      "areaImperial": 39,
-      "wingspan": 450,
-      "aspectRatio": 8.1
-    },
-    "price": 204,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/nomad-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Instinct 720",
-    "series": "Instinct",
-    "type": "front",
-    "specs": {
-      "area": 720,
-      "areaImperial": 112,
-      "wingspan": 765,
-      "aspectRatio": 8.12
-    },
-    "price": 440,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Instinct 920",
-    "series": "Instinct",
-    "type": "front",
-    "specs": {
-      "area": 920,
-      "areaImperial": 143,
-      "wingspan": 880,
-      "aspectRatio": 8.41
-    },
-    "price": 448,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Instinct 1120",
-    "series": "Instinct",
-    "type": "front",
-    "specs": {
-      "area": 1120,
-      "areaImperial": 174,
-      "wingspan": 971,
-      "aspectRatio": 8.4
-    },
-    "price": 472,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Instinct 1300",
-    "series": "Instinct",
-    "type": "front",
-    "specs": {
-      "area": 1300,
-      "areaImperial": 201,
-      "wingspan": 965,
-      "aspectRatio": 7.16
-    },
-    "price": 495,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
-  },
-  {
-    "brand": "KT Foils",
-    "model": "Instinct 1450",
-    "series": "Instinct",
-    "type": "front",
-    "specs": {
-      "area": 1450,
-      "areaImperial": 225,
-      "wingspan": 960,
-      "aspectRatio": 6.33
-    },
-    "price": 510,
-    "sourceUrl": "https://ktfoiling.com/foils/wings/instinct-1/"
   }
 ]
